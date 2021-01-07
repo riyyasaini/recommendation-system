@@ -5,7 +5,7 @@ E-profitability and recommendation system for supermarket
 
 Steps:
 1. Save database file and main.py file in same directory. 
-2. Change the path address to database file in pd.read_csv() in beginning & in functions: det() & recm().
-3. Run the main.py file 
+2. Change the path address to database file in pd.read_csv() in beginning & in functions: det() & recm() in Project.py file.
+3. Run the Project.py file 
 
 Note: Feel free to clear database file, make sure column headers remain for first use.
